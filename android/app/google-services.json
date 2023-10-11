@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135174712232",
+    "project_id": "fitrhythm-76957",
+    "storage_bucket": "fitrhythm-76957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135174712232:android:013b1b76db6b3aab574b9d",
+        "android_client_info": {
+          "package_name": "com.mistapepe.fitrhythm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135174712232-tet2kps9ocq5bi526ugg6dlp3ldrqfm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhuMGoHa4iSMaD4IcP78GCUPclvlVvIO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135174712232-tet2kps9ocq5bi526ugg6dlp3ldrqfm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
